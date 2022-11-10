@@ -1,0 +1,132 @@
+[
+
+    {
+      "weekDay": "Yesterday",
+      "data": [
+        {
+          "title": "Sell",
+          "type": "DOT",
+          "date": "1/24/2022",
+          "price": 189.82,
+          "count": 10.00,
+          "isSale": true
+        },
+        {
+          "title": "Sell",
+          "type": "DOT",
+          "date": "1/24/2022",
+          "price": 189.82,
+          "count": 10.00,
+          "isSale": true
+        },
+        {
+          "title": "Buy",
+          "type": "BTC",
+          "date": "1/24/2022",
+          "price": 189.82,
+          "count": 1.00,
+          "isSale": false
+        },
+        {
+          "title": "Sell",
+          "type": "DOT",
+          "date": "1/24/2022",
+          "price": 189.82,
+          "count": 10.00,
+          "isSale": true
+        }
+      ]
+    },
+
+    {
+      "weekDay": "Monday",
+      "data": [
+        {
+          "title": "Sell",
+          "type": "DOT",
+          "date": "1/24/2022",
+          "price": 189.82,
+          "count": 10.00,
+          "isSale": true
+        },        {
+          "title": "Sell",
+          "type": "DOT",
+          "date": "1/24/2022",
+          "price": 189.82,
+          "count": 10.00,
+          "isSale": true
+        },
+        {
+          "title": "Sell",
+          "type": "DOT",
+          "date": "1/24/2022",
+          "price": 189.82,
+          "count": 10.00,
+          "isSale": true
+        },
+        {
+          "title": "Buy",
+          "type": "BTC",
+          "date": "1/24/2022",
+          "price": 189.82,
+          "count": 1.00,
+          "isSale": false
+        },        {
+          "title": "Buy",
+          "type": "BTC",
+          "date": "1/24/2022",
+          "price": 189.82,
+          "count": 1.00,
+          "isSale": false
+        },
+        {
+          "title": "Sell",
+          "type": "DOT",
+          "date": "1/24/2022",
+          "price": 189.82,
+          "count": 10.00,
+          "isSale": true
+        }
+      ]
+    }
+  ,
+
+    {
+      "weekDay": "Wednesday",
+      "data": [
+        {
+          "title": "Sell",
+          "type": "DOT",
+          "date": "1/24/2022",
+          "price": 189.82,
+          "count": 10.00,
+          "isSale": true
+        },
+        {
+          "title": "Sell",
+          "type": "DOT",
+          "date": "1/24/2022",
+          "price": 189.82,
+          "count": 10.00,
+          "isSale": true
+        },
+        {
+          "title": "Buy",
+          "type": "BTC",
+          "date": "1/24/2022",
+          "price": 189.82,
+          "count": 1.00,
+          "isSale": false
+        },
+        {
+          "title": "Sell",
+          "type": "DOT",
+          "date": "1/24/2022",
+          "price": 189.82,
+          "count": 10.00,
+          "isSale": true
+        }
+      ]
+    }
+
+]
